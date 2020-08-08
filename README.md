@@ -1,2 +1,2 @@
 # Curso de Rigging Archivos a la fecha
-Archivos del Curso Rigging con Python
+Aquí encontraras todo el proyecto del curso estructura de carpetas y archivos del Curso Rigging con Python
