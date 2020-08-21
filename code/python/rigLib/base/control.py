@@ -37,9 +37,13 @@ class Control():
         else:
             mc.setAttr(controlShape + ".ovc", 16)
             
-        #creamos lo que es variables publicas para llamar entre archivos
-        self.Off= controlOffset
-        self.Co= controlObjeto
+        #instancias publicas
+        
+        self.Off=controlOffset
+        self.Co=controlObjeto
+        
+            
+        
         
         
             
